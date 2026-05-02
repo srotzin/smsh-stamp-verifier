@@ -1,0 +1,26 @@
+{
+  "v": "smsh-stamp/1",
+  "alg": "ed25519",
+  "kid": "test-key-001",
+  "stamped_at": "2026-05-02T12:00:00Z",
+  "subject": {
+    "kind": "agent-step",
+    "model": "gpt-4o-mini",
+    "input_hash": "YWdlbnQtaW5wdXQ",
+    "output_hash": "YWdlbnQtb3V0cHV0"
+  },
+  "council": {
+    "round": "R6",
+    "score": 9,
+    "of": 10
+  },
+  "lineage": {
+    "parent_receipts": [
+      "cmVjZWlwdC1pZC0x",
+      "cmVjZWlwdC1pZC0y",
+      "cmVjZWlwdC1pZC0z"
+    ],
+    "depth": 3
+  },
+  "sig": "pXqO79irvTjR4nRLKXixd9sUx0ItXqTt5lTjY3FFsaEZtb97mevxNv1tgzjXuJONxuDWhb9metZDgzXMrtViCQ"
+}

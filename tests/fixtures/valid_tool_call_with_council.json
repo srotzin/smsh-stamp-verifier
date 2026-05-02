@@ -1,0 +1,19 @@
+{
+  "v": "smsh-stamp/1",
+  "alg": "ed25519",
+  "kid": "test-key-001",
+  "stamped_at": "2026-05-02T12:00:00Z",
+  "subject": {
+    "kind": "tool-call",
+    "model": "claude-3-opus",
+    "input_hash": "dG9vbC1pbnB1dA",
+    "output_hash": "dG9vbC1vdXRwdXQ"
+  },
+  "council": {
+    "round": "R4",
+    "score": 8,
+    "of": 10
+  },
+  "lineage": null,
+  "sig": "w5PVtghVKns24XwKXvb_6P5LDme_cr6t4WcxYLPcEgqGSy73oFLnxQ6ez6ah3evV8zNFIzHMwyJMixczFV1-Bg"
+}

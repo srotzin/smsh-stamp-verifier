@@ -1,0 +1,12 @@
+@hivecivilization/smsh-stamp-verifier
+Copyright 2026 Hive Civilization
+
+This product is licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+This software includes the following third-party dependencies:
+
+- @noble/ed25519 (MIT License) — Paul Miller — https://github.com/paulmillr/noble-ed25519
+- @noble/hashes (MIT License) — Paul Miller — https://github.com/paulmillr/noble-hashes

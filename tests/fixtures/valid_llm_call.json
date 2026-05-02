@@ -1,0 +1,18 @@
+{
+  "v": "smsh-stamp/1",
+  "alg": "ed25519",
+  "kid": "test-key-001",
+  "stamped_at": "2026-05-02T12:00:00Z",
+  "subject": {
+    "kind": "llm-call",
+    "model": "gpt-4o",
+    "input_hash": "aGVsbG8gd29ybGQ",
+    "output_hash": "d29ybGQgaGVsbG8",
+    "context_hashes": [
+      "Y29udGV4dA"
+    ]
+  },
+  "council": null,
+  "lineage": null,
+  "sig": "vuqzJD-LJlojPdY7OkW66CNoLtqDmDmFEybJW1YnHvXEhyYWxzxeZ6f8jDdZCsnnZqkzPdI4fQh-jggdRUZ6DA"
+}
